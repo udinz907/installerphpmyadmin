@@ -26,7 +26,7 @@ Ensure you have root or sudo access to your server and that `curl` is installed.
    To start the installation, execute the following command:
 
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/Udinz907/phpmyadmin-installer/main/main.sh)
+   bash <(curl -s https://raw.githubusercontent.com/udinz907/installerphpmyadmin/main/pma.sh)
 
 2. **Follow the Menu Options**
 
